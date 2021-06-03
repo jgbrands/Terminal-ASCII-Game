@@ -1,0 +1,1 @@
+gcc -o adungeon adungeon.c include\mainmenu.c include\actionhandler.c include\gamescreen.c include\physics.c include\rooms.c include\plib.c
